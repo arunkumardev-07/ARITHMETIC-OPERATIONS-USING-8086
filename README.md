@@ -57,21 +57,19 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|                         |                          |
-|      1201:34            |  68:1205                 |
-|      1202:12            |  00:1206                 |
-|      1203:34            |  c4:1207                 |                             
+| 2000:34                 | 2000:55                  |
+| 2001:12                 | 2005:55                  |
+| 2002:21                 | 2006:00                  |
+| 2003:43                 |                          |
+
 #### Manual Calculations
 
-![WhatsApp Image 2025-09-14 at 19 05 55_96d7008d](https://github.com/user-attachments/assets/154132dd-d0e8-42bb-8798-5cb0ed283f7f)
+![WhatsApp Image 2025-09-21 at 15 06 20_26dd544c](https://github.com/user-attachments/assets/22d0dde6-4892-41c9-8666-201fa546f89f)
 
-
+---
 
 ## OUTPUT IMAGE FROM MASM SOFTWARE
-<img width="901" height="593" alt="Screenshot 2025-09-14 182139" src="https://github.com/user-attachments/assets/2a6ee828-4b7f-4a83-8650-138452df5eb4" />
-
-
-<img width="916" height="593" alt="Screenshot 2025-09-14 175635" src="https://github.com/user-attachments/assets/ee533120-4050-4d87-8e57-b634b304935c" />
+<img width="662" height="433" alt="Screenshot 2025-09-21 143403" src="https://github.com/user-attachments/assets/b3f2e067-6fa3-4685-8c5a-6ddbcabe8f58" />
 
 
 ## 2. SUBTRACTION
@@ -113,21 +111,22 @@ END
 
 #### Output Table
 
-| MEMORY LOCATION (INPUT)  | MEMORY LOCATION (OUTPUT) |
-| -----------------------  | ------------------------ |
-|                          |                          |
-|      1201:34             |  68:1205                 |
-|      1202:12             |  00:1206                 |
-|      1203:34             |  c4:1207                 |                            
+| MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
+| ----------------------- | ------------------------ |
+| 2000:45                 | 2000:04                  |
+| 2001:A4                 | 2005:72                  |
+| 2002:41                 | 2006:00                  |
+| 2003:32                 |                          |                 
+
 #### Manual Calculations
 
-![WhatsApp Image 2025-09-14 at 19 05 18_3d07f446](https://github.com/user-attachments/assets/e1b032f6-e76b-486a-8642-5f884d103ae2)
+![WhatsApp Image 2025-09-21 at 15 06 20_f2018dc7](https://github.com/user-attachments/assets/9bb2ce6e-8393-4910-83cc-86ce0669bc9b)
+
+---
 
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
-<img width="893" height="587" alt="Screenshot 2025-09-14 182203" src="https://github.com/user-attachments/assets/90edbae7-11ca-4787-a938-8ad347753313" />
-
-<img width="913" height="568" alt="Screenshot 2025-09-14 180909" src="https://github.com/user-attachments/assets/ca69b58d-f24a-4fa4-bf9c-d62735f6effa" />
+<img width="635" height="426" alt="Screenshot 2025-09-21 144020" src="https://github.com/user-attachments/assets/a9b6c1f4-8504-4b62-a46b-45f2c9f73e7c" />
 
 
 ## 3. MULTIPLICATION
@@ -168,18 +167,20 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|                         |                          |
-|      1201:34            |   68:1205                |
-|      1202:12            |   00:1206                |
-|      1203:34            |   c4:1207                |                               
+| 2000:22                 | 2000:A8                  |
+| 2001:21                 | 2005:CC                  |
+| 2002:14                 | 2006:57                  |
+| 2003:21                 | 2007:02                  |                 
+
+
 #### Manual Calculations
-![WhatsApp Image 2025-09-14 at 19 04 26_d5ead66a](https://github.com/user-attachments/assets/ce6b9c66-f460-4df9-a438-0ee6a427d122)
 
+![WhatsApp Image 2025-09-21 at 15 09 21_79f6f068](https://github.com/user-attachments/assets/6fd6893e-c61e-44b1-84ad-8f233dc40885)
 
+---
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
-<img width="885" height="587" alt="Screenshot 2025-09-14 182217" src="https://github.com/user-attachments/assets/dd1d9bdf-04c0-455f-b3d1-d15f3a67a645" />
-<img width="904" height="566" alt="Screenshot 2025-09-14 183300" src="https://github.com/user-attachments/assets/ba532115-92a6-47d6-b064-c959d2002b31" />
+<img width="627" height="444" alt="Screenshot 2025-09-21 145243" src="https://github.com/user-attachments/assets/ca85eb30-b06c-4500-a468-041e1549c46c" />
 
 
 ## 4. DIVISION
@@ -217,24 +218,23 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|                         |                          |
-|     1201:34             |  68:1205                 |
-|    1202:12              | 00:1206                  |
-|     1203:34             |  c4:1207                 |                                                               
+| 2000:33                 | 2000:03                  |
+| 2001:33                 | 2005:00                  |
+| 2002:11                 | 2006:00                  |
+| 2003:11                 | 2007:00                  |                                                                                             
 
 #### Manual Calculations
 
-![WhatsApp Image 2025-09-14 at 19 04 34_4e918cc8](https://github.com/user-attachments/assets/4d9b6322-8218-4170-963b-86c88be5a29d)
+![WhatsApp Image 2025-09-21 at 15 09 21_6f8ecb2c](https://github.com/user-attachments/assets/f58946bb-9637-47c6-b644-21a5470f45b7)
 
-
+---
 ## OUTPUT FROM MASM SOFTWARE
+<img width="645" height="430" alt="Screenshot 2025-09-21 150219" src="https://github.com/user-attachments/assets/8de04198-3de3-48f1-9c44-7554b86d1ef3" />
 
-<img width="921" height="576" alt="Screenshot 2025-09-14 182238" src="https://github.com/user-attachments/assets/d1b24a8e-d0a9-4486-9686-b860187c5fca" />
-<img width="916" height="561" alt="Screenshot 2025-09-14 183450" src="https://github.com/user-attachments/assets/a3c592ae-be5b-4ab7-97f6-abe12a0bbcba" />
+
 
 
 ## RESULT
 
 Thus, the Assembly Language Programs for 8086 to perform arithmetic operations (Addition, Subtraction, Multiplication, and Division) using both direct and indirect methods were successfully written and executed using MASM.
 
-|
